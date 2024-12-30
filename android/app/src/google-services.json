@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278905046696",
+    "project_id": "recipepro-91431",
+    "storage_bucket": "recipepro-91431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278905046696:android:b159f7c6a0856ac015649d",
+        "android_client_info": {
+          "package_name": "com.recipepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLlm8aUvLzr7CIL91Q2iJpTt1SdtFfEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
